@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "name": "Product 1",
+      "image": "assets/photo-1523275335684-37898b6baf30.avif",
+      "price": 100,
+      "description": "Description of Product 1"
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "image": "assets/premium_photo-1675896084254-dcb626387e1e.avif",
+      "price": 200,
+      "description": "Description of Product 2"
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "image": "assets/worldwide-e-commerce-concept_23-2147657845.avif",
+      "price": 300,
+      "description": "Description of Product 2"
+    }
+  ]
+  
